@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <chartType>histogram</chartType>
+    <className>com.mzy.shejimoshi.FactoryMethodExample.DatabaseLoggerFactory</className>
+    <className2>com.mzy.shejimoshi.AbstractFactoryExample.SpringSkinFactory</className2>
+    <className3>com.mzy.shejimoshi.ProxyExample.ProxySearcher</className3>
+</config>
